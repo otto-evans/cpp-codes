@@ -5,3 +5,5 @@ Each of the two sections of the robotic arm are of equal lengths, which you are 
 temperatura_convert.cpp
 This file contains a simple cpp code to in-between Celsius, kelvin and fahrenheit.
 
+euclidean_algorithim.cpp
+Does what you'd expect! Uses euclidean algorithm to find HCF of two integers a and b.
